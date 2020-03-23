@@ -1,1 +1,3 @@
 title: fragtrane’s Payday 2 BLT Mod Updates
+plugins:
+  - jekyll-redirect-from
