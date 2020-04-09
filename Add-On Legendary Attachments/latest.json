@@ -1,14 +1,14 @@
 [
 	{
 		"ident" : "AddOnLegendaryAttachments",
-		"hash" : "7022f34cf7f70f44ee5d8dbb540b457b9817229595c98d3446f021c06c48f95a",
-		"patchnotes_url" : "https://fragtrane.github.io/Payday-2-Mod-Updates/Add-On%20Legendary%20Attachments/patchnotes/v1.0.html",
-		"download_url" : "https://github.com/fragtrane/Payday-2-Mods/raw/master/Add-On%20Legendary%20Attachments/Add-On_Legendary_Attachments_v1.0.zip"
+		"hash" : "18ed63f1ee8a5b0db7d750f1a38bc9492aac83bcbd0a800cf52141631fbc5648",
+		"patchnotes_url" : "https://fragtrane.github.io/Payday-2-Mod-Updates/Add-On%20Legendary%20Attachments/patchnotes/v1.1.html",
+		"download_url" : "https://github.com/fragtrane/Payday-2-Mods/raw/master/Add-On%20Legendary%20Attachments/Add-On_Legendary_Attachments_v1.1.zip"
 	},
 	{
 		"ident" : "AddOnLegendaryAttachmentsAssets",
 		"hash" : "3405b3adbf031c30432c473791d239ac0265cddeb2f01266d73f349fabbc5ee4",
-		"patchnotes_url" : "https://fragtrane.github.io/Payday-2-Mod-Updates/Add-On%20Legendary%20Attachments/patchnotes/v1.0.html",
-		"download_url" : "https://github.com/fragtrane/Payday-2-Mods/raw/master/Add-On%20Legendary%20Attachments/Add-On_Legendary_Attachments_Assets_v1.0.zip"
+		"patchnotes_url" : "https://fragtrane.github.io/Payday-2-Mod-Updates/Add-On%20Legendary%20Attachments/patchnotes/v1.1.html",
+		"download_url" : "https://github.com/fragtrane/Payday-2-Mods/raw/master/Add-On%20Legendary%20Attachments/Add-On_Legendary_Attachments_Assets_v1.1.zip"
 	}
 ]
